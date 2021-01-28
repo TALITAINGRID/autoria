@@ -1,0 +1,33 @@
+body {color: darkblue;
+font-family: cursive;
+font-size: 15px;}
+
+#conteudo{color: darkblue}
+#conteudo{font-family: arial}
+#dados_pessoais{color: darkblue}
+#dados_pessoais{font-family: arial}
+#dados_profissionais{color: darkblue}
+#dados_profissionais{font-family: arial}
+#filmes_livros{color: darkblue}
+#filmes_livros{font-family: arial}
+#hobbies{color: darkblue}
+#hobbies{font-family: arial}
+
+h1,h2,h3,h4,h5,h6{color: darkblue;}
+
+body {background-color: lightgray;
+}
+body {
+background-image: url("background.jpg");
+
+{background-repeat: no-repeat};
+
+{background-position: bottom};
+
+{background-size: 800px};
+}
+
+
+
+
+
